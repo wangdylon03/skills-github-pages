@@ -1,4 +1,4 @@
 ---
-title: Welcome to my home :3
+title: Welcome to my homepage :3
 ---
 Hello people
